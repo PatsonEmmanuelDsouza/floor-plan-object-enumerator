@@ -1,2 +1,8 @@
 *.env
 *.DS_Store
+data_old/
+images/
+latest_images/
+new_images/
+runs/
+.vscode/
