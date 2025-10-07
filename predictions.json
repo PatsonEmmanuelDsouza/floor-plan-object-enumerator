@@ -1,0 +1,823 @@
+[
+    {
+        "data": {
+            "image": "/data/local-files/?d=raw_images/790aa67c-ec55-4521-9c3a-a68ecb530494-20251007_150917-raw.jpg"
+        },
+        "predictions": [
+            {
+                "model_version": "yolov8",
+                "score": 0.6720218062400818,
+                "result": [
+                    {
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "score": 0.9345369338989258,
+                        "value": {
+                            "rectanglelabels": [
+                                "door"
+                            ],
+                            "x": 14.534763991832733,
+                            "y": 37.3990461230278,
+                            "width": 3.4676462411880493,
+                            "height": 4.737445712089539
+                        }
+                    },
+                    {
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "score": 0.9265187382698059,
+                        "value": {
+                            "rectanglelabels": [
+                                "door"
+                            ],
+                            "x": 22.50392436981201,
+                            "y": 66.20538420975208,
+                            "width": 5.009937286376953,
+                            "height": 6.917794793844223
+                        }
+                    },
+                    {
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "score": 0.925665020942688,
+                        "value": {
+                            "rectanglelabels": [
+                                "door"
+                            ],
+                            "x": 34.29408222436905,
+                            "y": 26.316484063863754,
+                            "width": 3.6929935216903687,
+                            "height": 5.408133566379547
+                        }
+                    },
+                    {
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "score": 0.9129620790481567,
+                        "value": {
+                            "rectanglelabels": [
+                                "door"
+                            ],
+                            "x": 7.1061573922634125,
+                            "y": 38.79828862845898,
+                            "width": 2.3613274097442627,
+                            "height": 3.092048317193985
+                        }
+                    },
+                    {
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "score": 0.9105938076972961,
+                        "value": {
+                            "rectanglelabels": [
+                                "door"
+                            ],
+                            "x": 30.83272874355316,
+                            "y": 26.364215649664402,
+                            "width": 3.6850452423095703,
+                            "height": 5.3763460367918015
+                        }
+                    },
+                    {
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "score": 0.9100160598754883,
+                        "value": {
+                            "rectanglelabels": [
+                                "door"
+                            ],
+                            "x": 39.40402865409851,
+                            "y": 52.17283591628075,
+                            "width": 3.771495819091797,
+                            "height": 3.926868736743927
+                        }
+                    },
+                    {
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "score": 0.9048843383789062,
+                        "value": {
+                            "rectanglelabels": [
+                                "door"
+                            ],
+                            "x": 43.43176633119583,
+                            "y": 55.64178619533777,
+                            "width": 4.00911271572113,
+                            "height": 4.811374470591545
+                        }
+                    },
+                    {
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "score": 0.8996821045875549,
+                        "value": {
+                            "rectanglelabels": [
+                                "door"
+                            ],
+                            "x": 15.86439236998558,
+                            "y": 25.38737840950489,
+                            "width": 4.641808569431305,
+                            "height": 5.431964248418808
+                        }
+                    },
+                    {
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "score": 0.8894578814506531,
+                        "value": {
+                            "rectanglelabels": [
+                                "door"
+                            ],
+                            "x": 53.615984320640564,
+                            "y": 46.327751129865646,
+                            "width": 4.078465700149536,
+                            "height": 6.3525572419166565
+                        }
+                    },
+                    {
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "score": 0.868313729763031,
+                        "value": {
+                            "rectanglelabels": [
+                                "door"
+                            ],
+                            "x": 16.90850928425789,
+                            "y": 32.295374013483524,
+                            "width": 4.0598079562187195,
+                            "height": 5.375681445002556
+                        }
+                    },
+                    {
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "score": 0.8580092787742615,
+                        "value": {
+                            "rectanglelabels": [
+                                "sink"
+                            ],
+                            "x": 3.565352223813534,
+                            "y": 72.42433056235313,
+                            "width": 2.4296794086694717,
+                            "height": 8.05555135011673
+                        }
+                    },
+                    {
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "score": 0.8490849137306213,
+                        "value": {
+                            "rectanglelabels": [
+                                "door"
+                            ],
+                            "x": 18.234465271234512,
+                            "y": 75.02669151872396,
+                            "width": 3.4700974822044373,
+                            "height": 5.005906894803047
+                        }
+                    },
+                    {
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "score": 0.79463130235672,
+                        "value": {
+                            "rectanglelabels": [
+                                "door"
+                            ],
+                            "x": 18.484774231910706,
+                            "y": 66.75547603517771,
+                            "width": 3.5921573638916016,
+                            "height": 4.76878397166729
+                        }
+                    },
+                    {
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "score": 0.744174599647522,
+                        "value": {
+                            "rectanglelabels": [
+                                "toilet"
+                            ],
+                            "x": 9.989241138100624,
+                            "y": 51.65019202977419,
+                            "width": 3.0026696622371674,
+                            "height": 3.5917725414037704
+                        }
+                    },
+                    {
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "score": 0.7432311773300171,
+                        "value": {
+                            "rectanglelabels": [
+                                "table"
+                            ],
+                            "x": 41.12695008516312,
+                            "y": 37.41084560751915,
+                            "width": 5.434665083885193,
+                            "height": 13.867194950580597
+                        }
+                    },
+                    {
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "score": 0.724115788936615,
+                        "value": {
+                            "rectanglelabels": [
+                                "table"
+                            ],
+                            "x": 6.578493490815163,
+                            "y": 90.52022639662027,
+                            "width": 2.816929668188095,
+                            "height": 2.5631677359342575
+                        }
+                    },
+                    {
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "score": 0.7220215201377869,
+                        "value": {
+                            "rectanglelabels": [
+                                "toilet"
+                            ],
+                            "x": 43.47069263458252,
+                            "y": 60.538479685783386,
+                            "width": 2.2580325603485107,
+                            "height": 4.170042276382446
+                        }
+                    },
+                    {
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "score": 0.7078734636306763,
+                        "value": {
+                            "rectanglelabels": [
+                                "door"
+                            ],
+                            "x": 13.882794976234436,
+                            "y": 67.46108438819647,
+                            "width": 4.006251692771912,
+                            "height": 4.860462620854378
+                        }
+                    },
+                    {
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "score": 0.6528236269950867,
+                        "value": {
+                            "rectanglelabels": [
+                                "toilet"
+                            ],
+                            "x": 42.948801815509796,
+                            "y": 64.57974622026086,
+                            "width": 2.6635855436325073,
+                            "height": 3.0606327578425407
+                        }
+                    },
+                    {
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "score": 0.6309431791305542,
+                        "value": {
+                            "rectanglelabels": [
+                                "bath"
+                            ],
+                            "x": 3.7379035726189613,
+                            "y": 84.03868153691292,
+                            "width": 5.701692029833794,
+                            "height": 5.12077659368515
+                        }
+                    },
+                    {
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "score": 0.6165752410888672,
+                        "value": {
+                            "rectanglelabels": [
+                                "door"
+                            ],
+                            "x": 6.695243343710899,
+                            "y": 50.029704719781876,
+                            "width": 2.7262188494205475,
+                            "height": 3.607027232646942
+                        }
+                    },
+                    {
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "score": 0.6079370379447937,
+                        "value": {
+                            "rectanglelabels": [
+                                "door"
+                            ],
+                            "x": 45.953576266765594,
+                            "y": 48.60910549759865,
+                            "width": 2.3873120546340942,
+                            "height": 3.535573184490204
+                        }
+                    },
+                    {
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "score": 0.5879078507423401,
+                        "value": {
+                            "rectanglelabels": [
+                                "sink"
+                            ],
+                            "x": 21.477993577718735,
+                            "y": 38.77269849181175,
+                            "width": 3.014792501926422,
+                            "height": 8.769024908542633
+                        }
+                    },
+                    {
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "score": 0.5459635853767395,
+                        "value": {
+                            "rectanglelabels": [
+                                "door"
+                            ],
+                            "x": 7.162464037537575,
+                            "y": 38.68802357465029,
+                            "width": 3.645183891057968,
+                            "height": 3.225013241171837
+                        }
+                    },
+                    {
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "score": 0.532463014125824,
+                        "value": {
+                            "rectanglelabels": [
+                                "toilet"
+                            ],
+                            "x": 3.4375376999378204,
+                            "y": 80.90368304401636,
+                            "width": 2.9204607009887695,
+                            "height": 3.9035599678754807
+                        }
+                    },
+                    {
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "score": 0.5272924900054932,
+                        "value": {
+                            "rectanglelabels": [
+                                "door"
+                            ],
+                            "x": 38.21757584810257,
+                            "y": 26.559738256037235,
+                            "width": 3.915652632713318,
+                            "height": 4.833177849650383
+                        }
+                    },
+                    {
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "score": 0.4890335202217102,
+                        "value": {
+                            "rectanglelabels": [
+                                "bath"
+                            ],
+                            "x": 3.645235486328602,
+                            "y": 49.80294071137905,
+                            "width": 3.4519117325544357,
+                            "height": 6.394375115633011
+                        }
+                    },
+                    {
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "score": 0.4351165294647217,
+                        "value": {
+                            "rectanglelabels": [
+                                "bath"
+                            ],
+                            "x": 3.533632308244705,
+                            "y": 41.53190292418003,
+                            "width": 3.660162538290024,
+                            "height": 7.419680804014206
+                        }
+                    },
+                    {
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "score": 0.3956882357597351,
+                        "value": {
+                            "rectanglelabels": [
+                                "table"
+                            ],
+                            "x": 81.85032308101654,
+                            "y": 60.04054620862007,
+                            "width": 14.249473810195923,
+                            "height": 18.195246160030365
+                        }
+                    },
+                    {
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "score": 0.3820424973964691,
+                        "value": {
+                            "rectanglelabels": [
+                                "sink"
+                            ],
+                            "x": 10.710591077804565,
+                            "y": 41.88951551914215,
+                            "width": 2.131974697113037,
+                            "height": 3.6638975143432617
+                        }
+                    },
+                    {
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "score": 0.3620281517505646,
+                        "value": {
+                            "rectanglelabels": [
+                                "door"
+                            ],
+                            "x": 48.75650703907013,
+                            "y": 55.66540248692036,
+                            "width": 4.0492236614227295,
+                            "height": 4.520299285650253
+                        }
+                    },
+                    {
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "score": 0.31431323289871216,
+                        "value": {
+                            "rectanglelabels": [
+                                "door"
+                            ],
+                            "x": 45.92824876308441,
+                            "y": 26.765504851937294,
+                            "width": 3.5125732421875,
+                            "height": 4.544030874967575
+                        }
+                    },
+                    {
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "score": 0.28679028153419495,
+                        "value": {
+                            "rectanglelabels": [
+                                "bath"
+                            ],
+                            "x": 3.6830008029937744,
+                            "y": 41.79287776350975,
+                            "width": 3.278525173664093,
+                            "height": 14.189048111438751
+                        }
+                    },
+                    {
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "score": 0.25605037808418274,
+                        "value": {
+                            "rectanglelabels": [
+                                "table"
+                            ],
+                            "x": 95.70808410644531,
+                            "y": 65.94736259430647,
+                            "width": 2.762603759765625,
+                            "height": 3.9636198431253433
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "data": {
+            "image": "/data/local-files/?d=raw_images/efe36f82-3b43-4d9b-a312-fadaa9aaeaf2-20251007_152222-raw.jpg"
+        },
+        "predictions": [
+            {
+                "model_version": "yolov8",
+                "score": 0.8357155919075012,
+                "result": [
+                    {
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "score": 0.9345369338989258,
+                        "value": {
+                            "rectanglelabels": [
+                                "door"
+                            ],
+                            "x": 14.534763991832733,
+                            "y": 37.3990461230278,
+                            "width": 3.4676462411880493,
+                            "height": 4.737445712089539
+                        }
+                    },
+                    {
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "score": 0.9265187382698059,
+                        "value": {
+                            "rectanglelabels": [
+                                "door"
+                            ],
+                            "x": 22.50392436981201,
+                            "y": 66.20538420975208,
+                            "width": 5.009937286376953,
+                            "height": 6.917794793844223
+                        }
+                    },
+                    {
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "score": 0.925665020942688,
+                        "value": {
+                            "rectanglelabels": [
+                                "door"
+                            ],
+                            "x": 34.29408222436905,
+                            "y": 26.316484063863754,
+                            "width": 3.6929935216903687,
+                            "height": 5.408133566379547
+                        }
+                    },
+                    {
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "score": 0.9129620790481567,
+                        "value": {
+                            "rectanglelabels": [
+                                "door"
+                            ],
+                            "x": 7.1061573922634125,
+                            "y": 38.79828862845898,
+                            "width": 2.3613274097442627,
+                            "height": 3.092048317193985
+                        }
+                    },
+                    {
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "score": 0.9105938076972961,
+                        "value": {
+                            "rectanglelabels": [
+                                "door"
+                            ],
+                            "x": 30.83272874355316,
+                            "y": 26.364215649664402,
+                            "width": 3.6850452423095703,
+                            "height": 5.3763460367918015
+                        }
+                    },
+                    {
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "score": 0.9100160598754883,
+                        "value": {
+                            "rectanglelabels": [
+                                "door"
+                            ],
+                            "x": 39.40402865409851,
+                            "y": 52.17283591628075,
+                            "width": 3.771495819091797,
+                            "height": 3.926868736743927
+                        }
+                    },
+                    {
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "score": 0.9048843383789062,
+                        "value": {
+                            "rectanglelabels": [
+                                "door"
+                            ],
+                            "x": 43.43176633119583,
+                            "y": 55.64178619533777,
+                            "width": 4.00911271572113,
+                            "height": 4.811374470591545
+                        }
+                    },
+                    {
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "score": 0.8996821045875549,
+                        "value": {
+                            "rectanglelabels": [
+                                "door"
+                            ],
+                            "x": 15.86439236998558,
+                            "y": 25.38737840950489,
+                            "width": 4.641808569431305,
+                            "height": 5.431964248418808
+                        }
+                    },
+                    {
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "score": 0.8894578814506531,
+                        "value": {
+                            "rectanglelabels": [
+                                "door"
+                            ],
+                            "x": 53.615984320640564,
+                            "y": 46.327751129865646,
+                            "width": 4.078465700149536,
+                            "height": 6.3525572419166565
+                        }
+                    },
+                    {
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "score": 0.868313729763031,
+                        "value": {
+                            "rectanglelabels": [
+                                "door"
+                            ],
+                            "x": 16.90850928425789,
+                            "y": 32.295374013483524,
+                            "width": 4.0598079562187195,
+                            "height": 5.375681445002556
+                        }
+                    },
+                    {
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "score": 0.8580092787742615,
+                        "value": {
+                            "rectanglelabels": [
+                                "sink"
+                            ],
+                            "x": 3.565352223813534,
+                            "y": 72.42433056235313,
+                            "width": 2.4296794086694717,
+                            "height": 8.05555135011673
+                        }
+                    },
+                    {
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "score": 0.8490849137306213,
+                        "value": {
+                            "rectanglelabels": [
+                                "door"
+                            ],
+                            "x": 18.234465271234512,
+                            "y": 75.02669151872396,
+                            "width": 3.4700974822044373,
+                            "height": 5.005906894803047
+                        }
+                    },
+                    {
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "score": 0.79463130235672,
+                        "value": {
+                            "rectanglelabels": [
+                                "door"
+                            ],
+                            "x": 18.484774231910706,
+                            "y": 66.75547603517771,
+                            "width": 3.5921573638916016,
+                            "height": 4.76878397166729
+                        }
+                    },
+                    {
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "score": 0.744174599647522,
+                        "value": {
+                            "rectanglelabels": [
+                                "toilet"
+                            ],
+                            "x": 9.989241138100624,
+                            "y": 51.65019202977419,
+                            "width": 3.0026696622371674,
+                            "height": 3.5917725414037704
+                        }
+                    },
+                    {
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "score": 0.7432311773300171,
+                        "value": {
+                            "rectanglelabels": [
+                                "table"
+                            ],
+                            "x": 41.12695008516312,
+                            "y": 37.41084560751915,
+                            "width": 5.434665083885193,
+                            "height": 13.867194950580597
+                        }
+                    },
+                    {
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "score": 0.724115788936615,
+                        "value": {
+                            "rectanglelabels": [
+                                "table"
+                            ],
+                            "x": 6.578493490815163,
+                            "y": 90.52022639662027,
+                            "width": 2.816929668188095,
+                            "height": 2.5631677359342575
+                        }
+                    },
+                    {
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "score": 0.7220215201377869,
+                        "value": {
+                            "rectanglelabels": [
+                                "toilet"
+                            ],
+                            "x": 43.47069263458252,
+                            "y": 60.538479685783386,
+                            "width": 2.2580325603485107,
+                            "height": 4.170042276382446
+                        }
+                    },
+                    {
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "score": 0.7078734636306763,
+                        "value": {
+                            "rectanglelabels": [
+                                "door"
+                            ],
+                            "x": 13.882794976234436,
+                            "y": 67.46108438819647,
+                            "width": 4.006251692771912,
+                            "height": 4.860462620854378
+                        }
+                    },
+                    {
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "score": 0.6528236269950867,
+                        "value": {
+                            "rectanglelabels": [
+                                "toilet"
+                            ],
+                            "x": 42.948801815509796,
+                            "y": 64.57974622026086,
+                            "width": 2.6635855436325073,
+                            "height": 3.0606327578425407
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+]

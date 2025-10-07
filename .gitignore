@@ -7,3 +7,5 @@ new_images/
 runs/
 .vscode/
 *__pycache__/
+*predicted_images/
+*raw_images/
