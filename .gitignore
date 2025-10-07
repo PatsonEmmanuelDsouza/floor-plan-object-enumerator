@@ -6,3 +6,4 @@ latest_images/
 new_images/
 runs/
 .vscode/
+*__pycache__/
